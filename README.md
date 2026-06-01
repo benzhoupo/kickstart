@@ -2,7 +2,6 @@
 
 > **English speakers:** No English version available. Go find a fan translation somewhere. Not my problem if you can't.
 
-> 写出来效果不好是模型的问题，不关我事。除非 10 人以上反馈同样的问题，否则概不受理。
 
 从一个模糊的想法到一份可以直接开工的项目规格说明书。
 
